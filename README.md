@@ -2,8 +2,8 @@ This Docker-compose will create images for frontend, backend and database and ru
 
 In the docker-compose and dockerfile we have been used following options.
 
-Environment Variables
-Build Arguments
-Docker Network
-Docker Volumes
+Environment Variables </br>
+Build Arguments </br>
+Docker Network </br>
+Docker Volumes </br>
 
